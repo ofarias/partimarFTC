@@ -1,0 +1,5 @@
+UPDATE PAR_FACTR01 SET COST=1601.4218775218 where num_mov >= 55963 and num_mov < 59453 and cve_art ='IL0129'
+UPDATE PAR_FACTR01 SET COST=1601.4218775218 where num_mov >= 55963 and num_mov < 59453 and cve_art ='IL0129'
+UPDATE PAR_FACTR01 SET COST=1601.4218775218 where num_mov >= 55963 and num_mov < 59453 and cve_art ='IL0129'
+UPDATE PAR_FACTR01 SET COST=1601.4218775218 where num_mov >= 55963 and num_mov < 59453 and cve_art ='IL0129'
+UPDATE PAR_FACTR01 SET COST=1601.4218775218 where num_mov >= 55963 and num_mov < 59453 and cve_art ='IL0129'

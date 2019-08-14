@@ -1,0 +1,1 @@
+UPDATE PAR_FACTR01 SET COST=104.32377523079 where num_mov >= 55951 and num_mov < 59457 and cve_art ='IL6782'
